@@ -1,0 +1,15 @@
+@import url('font/Helvetica.ttf');
+
+    .Helvetica {
+        font-family: 'Helvetica';
+        color: black;
+        font-style: normal;
+    }
+
+@import url('font/cour.ttf');
+
+    .courier {
+        font-family: 'courier';
+        color: black;
+        font-style: normal;
+    }
